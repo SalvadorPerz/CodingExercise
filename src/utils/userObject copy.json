@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rocky",
+    "favoriteFood": "Sushi",
+    "favoriteMovie": "Back to The Future",
+    "status": "Inactive"
+  },
+  {
+    "name": "Miroslav",
+    "favoriteFood": "Sushi",
+    "favoriteMovie": "American Psycho",
+    "status": "Active"
+  },
+  {
+    "name": "Donny",
+    "favoriteFood": "Singapore chow mei fun",
+    "favoriteMovie": "The Princess Bride",
+    "status": "Inactive"
+  },
+  {
+    "name": "Matt",
+    "favoriteFood": "Brisket Tacos",
+    "favoriteMovie": "The Princess Bride",
+    "status": "Active"
+  },
+  {
+    "name": "Salvador",
+    "favoriteFood": "Pizza",
+    "favoriteMovie": "The Godfather",
+    "status": "Active"
+  }
+]
